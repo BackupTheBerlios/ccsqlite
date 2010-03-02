@@ -1,0 +1,5 @@
+/*
+// $Id: AUTHORS.txt,v 1.1 2005/06/07 22:55:06 jjhop Exp $
+*/
+
+Rafal Kotusiewicz <jjhop@users.berlios.de>
